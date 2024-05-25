@@ -1,5 +1,4 @@
 # TO-DO LIST
-# React + Vite
 Funções:
     -> Criar tarefa;
     -> Marcar como concluida;
