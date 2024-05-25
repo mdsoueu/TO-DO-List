@@ -1,10 +1,10 @@
 # TO-DO LIST
 Funções: <br/>
-    -> Criar tarefa;
-    -> Marcar como concluida;
-    -> Excluir;
-    -> Pesquisar;
-    -> Filtar;
+    -> Criar tarefa; <br/>
+    -> Marcar como concluida; <br/>
+    -> Excluir; <br/>
+    -> Pesquisar; <br/>
+    -> Filtar; <br/>
     -> Ordem alfabética (A-Z);
 
 <!-- 
