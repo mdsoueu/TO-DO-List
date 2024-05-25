@@ -1,5 +1,5 @@
 # TO-DO LIST
-Funções:
+Funções: <br/>
     -> Criar tarefa;
     -> Marcar como concluida;
     -> Excluir;
